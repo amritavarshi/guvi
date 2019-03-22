@@ -9,4 +9,6 @@ Original file is located at
 
 n=int(input())
 for i in range (1,6):
+  if(i==5):
+    print(n*i)
   print(n*i,end=" ")
