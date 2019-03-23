@@ -8,7 +8,7 @@ Original file is located at
 """
 
 n=int(input())
-order=len(n)
+order=len(str(n))
 temp=n
 sum=0
 while temp>0:
