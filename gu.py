@@ -1,4 +1,4 @@
-x=eval(input('Enter your number'))
+x=eval(input())
 
 if x>0:
 	print ("Positive")
