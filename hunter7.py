@@ -7,7 +7,7 @@ Created on Sun Apr  7 01:03:51 2019
 
 n=int(input())
 l=input()
-l1=input.split()
+l1=l.split()
 l2=[]
 for i in range(n):
     if i%2==0:
