@@ -1,4 +1,4 @@
 import re
 s=input()
-re.sub(' +',' ',s)
+s=re.sub(' +',' ',s)
 print(s)
